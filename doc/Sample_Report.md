@@ -42,7 +42,12 @@ Provide a quick summary, in your own words what the challenge is about and how d
 >A. Your answer and supporting image
 >
 >To include an image, first include your image in your images folder. 
+>![Image of Challenge](fig/Lab0_SampleImage.jpg)
 
 ### Challenge 2:
+>Q. Second Challenge wants you to have a video!
+
+>A. Answer discussing the video and the name of the video as saved in your repository. 
+>![Image of Challenge](fig/Lab0_SampleVideo.gif)
 
 ### Challenge 3:
